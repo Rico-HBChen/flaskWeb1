@@ -1,4 +1,4 @@
 # coding:utf-8
 *.vscode
-*.idea
-*.PIPENV_VENV_IN_PROJECT
+.idea
+PIPENV_VENV_IN_PROJECT
